@@ -11,7 +11,7 @@ The C++ graphics library chosen for this game ensures that the visuals are crisp
 
 
 
-#Output
+# Output
 
 ![11](https://github.com/dihanhassan/Rapid-Roll-Game-/assets/53794203/81911174-fd40-48bb-809f-f43ccce5a756)
 
